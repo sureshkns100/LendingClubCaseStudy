@@ -96,7 +96,7 @@ Give credit here.
 
 ## Contact
 Created by [@githubsureshkns100] - feel free to contact me!
-https://github.com/sureshkns100/Suresh-Narayanan-YeshaswiniJ-Lending-Case-Study
+https://github.com/sureshkns100/Suresh-Narayanan-YeshaswiniJ-Lending-Case-Study-/tree/main
 
 
 <!-- Optional -->
