@@ -75,15 +75,15 @@ The most critical factors influencing loan default include high interest rates, 
 
 
 ## Technologies Used
-import warnings
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats
-from IPython.core.display import HTML
-%matplotlib inline
-warnings.filterwarnings('ignore') # if there are any warning due to version mismatch, it will be ignored
+1. import warnings
+2. import numpy as np
+3. import pandas as pd
+4. import matplotlib.pyplot as plt
+5. import seaborn as sns
+6. from scipy import stats
+7. from IPython.core.display import HTML
+8. %matplotlib inline
+9. warnings.filterwarnings('ignore') # if there are any warning due to version mismatch, it will be ignored
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
